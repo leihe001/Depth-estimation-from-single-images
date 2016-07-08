@@ -1,5 +1,4 @@
-# read mat folder and saved as images
-
+# read mat file and saved as images
 import cv2
 import numpy as np
 import h5py
